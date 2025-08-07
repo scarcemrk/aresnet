@@ -1,0 +1,5 @@
+colorama>=0.4.6
+requests>=2.31.0
+lxml>=4.9.3
+python-nmap>=0.7.1
+nmap
