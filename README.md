@@ -33,21 +33,6 @@ Perfect for live recon, red teaming, and real-world vulnerability discovery.
 
 ## 📸 Demo
 
-<img width="661" height="670" alt="Screenshot 2025-08-06 at 12 06 04 PM" src="https://github.com/user-attachments/assets/9fa33b93-4420-4921-b8dd-de774c3a5b60" />
-
-<p><em>📌 Help Menu: AresNet's CLI usage and supported flags</em></p>
-
-<img width="643" height="422" alt="ipscan" src="https://github.com/user-attachments/assets/957c76f1-2003-4e1c-ad51-920ad45f563a" />
-
-<p><em>🚀 Scan Progress with Real-time Output Display</em></p>
-
-<img width="1440" height="773" alt="advanced scan" src="https://github.com/user-attachments/assets/4506b576-ea07-45ce-9f1d-db0028e5bd72" />
-
-<p><em>🔍 Live Scan Output: Scanning IP with detailed vulnerabilities, services, CVSS scores, and references</em></p>
-
-<img width="1440" height="697" alt="result_json" src="https://github.com/user-attachments/assets/ce27a8c9-c54f-4ad6-869c-2014522fe980" />
-
-<p><em>📁 JSON Output: Structured Vulnerability Scan Results</em></p>
 
 
 ```bash
@@ -259,4 +244,4 @@ This project is licensed under the MIT License.
 ---
 
 ## 👨‍💻 Author
-Developed by Pushprajsinh Parmar
+Developed by [Karan Bharda](https://github.com/scarcemrk)
